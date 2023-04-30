@@ -1,6 +1,6 @@
 
 ## Hi there 👋, I AM EADI MAHABUB
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I AM WEB DEVELOPER](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### I AM WEB DEVELOPER
 ![I AM WEB DEVELOPER]
 
